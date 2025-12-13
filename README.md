@@ -23,6 +23,8 @@ Then use the modules in `02_bloodhound/` to interpret and propose remediations.
 
 Educational and Defensive Use Only
 
+##
+
 This repository is provided solely for educational, academic, and defensive security purposes, such as learning how to analyze Active Directory privilege relationships and reduce privilege-escalation risk using BloodHound.
 
 All techniques, explanations, and scripts included are read-only and are intended to be used only in environments you own or have explicit authorization to assess.
