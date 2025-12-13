@@ -1,4 +1,4 @@
-# WindowsPrivelegeEscalation-Safe-
+
 
 # 🛡️ AD Privilege Escalation Risk Analysis (BloodHound) — SAFE
 
