@@ -17,10 +17,6 @@ using BloodHound and **read-only** auditing scripts.
 - No “add user to group” workflows
 - No RDP / lateral movement steps
 
-## Quick start (read-only)
-Run the scripts in `03_detection_scripts/` to generate a findings report.
-Then use the modules in `02_bloodhound/` to interpret and propose remediations.
-
 Educational and Defensive Use Only
 
 ##
