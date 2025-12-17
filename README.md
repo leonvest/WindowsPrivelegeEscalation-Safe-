@@ -28,3 +28,8 @@ All techniques, explanations, and scripts included are read-only and are intende
 This repository does not provide exploitation workflows or operational guidance for gaining unauthorized access. Any misuse of the information, including actions that violate laws, organizational policies, or terms of service, is strictly prohibited.
 
 The authors assume no responsibility or liability for any misuse, damage, or legal consequences resulting from the use of this material. Responsibility for ethical and lawful use lies entirely with the user.
+
+
+## Maintainers
+- [@KaliThermal](https://github.com/KaliThermal)
+- [@leonvest](https://github.com/leonvest)
