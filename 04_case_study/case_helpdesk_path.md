@@ -106,6 +106,7 @@ BloodHound made it visible by:
 
 ## Defensive Lessons Learned
 
+
 ### 1) ACLs Must Be Treated as Privileged
 
 Permissions such as:
@@ -120,5 +121,30 @@ should be treated with the same caution as administrator rights.
 
 ### 2) Group Ownership and Delegation Must Be Controlled
 
-Groups that
+Groups that:
+- influence access to systems,
+- grant operational authority, or
+- act as intermediaries for administration
 
+must have:
+- clearly defined ownership
+- tightly scoped delegation
+- regular permission review
+
+---
+
+### 3) Reduce Attack Paths, Not Just Accounts
+
+Removing a single user from a group is not sufficient.
+
+Effective defense focuses on:
+- breaking privilege chains
+- removing unnecessary delegation
+- simplifying trust relationships
+
+---
+
+## Key Takeaway
+
+> This case study demonstrates that **privilege escalation in Active Directory
+> is often a design failure, not a technical exploit**.
